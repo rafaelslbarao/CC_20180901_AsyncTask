@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="Thread">Thread</string>
+    <string name="AsyncTask">AsyncTask</string>
+    <string name="IniciandoAsyncTask">Iniciando Processo AsyncTask...</string>
+    <string name="FinalizadoAsyncTask">AsyncTask Finalizado</string>
+    <string name="IniciandoThread">Iniciando Processo Thread...</string>
+    <string name="FinalizadoThread">Thread Finalizado</string>
+</resources>
